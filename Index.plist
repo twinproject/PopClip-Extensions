@@ -72,7 +72,7 @@
 			<string>BingTranslator</string>
 			<string>InstantTranslate</string>	
 			<string>TranslateTab</string>									
-			<string>InstantTranslateApp</string>
+			<string>MateTranslate</string>
 		</array>
 		<key>Title</key>
 		<string>Translation</string>
@@ -87,7 +87,6 @@
 			<string>nvALT</string>
 			<string>NotesTab</string>
 			<string>StickyNotifications</string>
-			<string>Together</string>
 			<string>Yojimbo</string>
 			<string>DEVONthinkPro</string>
 			<string>Notefile</string>
@@ -138,6 +137,25 @@
 	<dict>
 		<key>Members</key>
 		<array>
+			<string>Cardhop</string>	
+			<string>BusyContacts</string>							
+		</array>
+		<key>Title</key>
+		<string>Contacts Apps</string>
+	</dict>
+	<dict>
+		<key>Members</key>
+		<array>
+			<string>Unclutter</string>
+			<string>Yoink</string>							
+			<string>Dropshelf</string>													
+		</array>
+		<key>Title</key>
+		<string>Drag &amp; Drop Utilities</string>
+	</dict>
+	<dict>
+		<key>Members</key>
+		<array>
 			<string>TextEdit</string>
 			<string>Email</string>
 			<string>Messages</string>
@@ -151,12 +169,8 @@
 			<string>Typinator</string>			
 			<string>TextSoap</string>	
 			<string>Parcel</string>		
-			<string>Deliveries</string>		
-			<string>Dropshelf</string>								
-			<string>Unclutter</string>	
-			<string>Slicereader</string>	
-			<string>Slack</string>	
-			<string>BusyContacts</string>
+			<string>Deliveries</string>												
+			<string>Slack</string>				
 		</array>
 		<key>Title</key>
 		<string>Other Apps</string>
